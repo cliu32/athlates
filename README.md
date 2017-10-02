@@ -1,4 +1,4 @@
-# ATHLATES (Acutre Typing of Human Leukocyte Antigen through Exome Sequencing)
+# ATHLATES
 Abstract: ATHLATES (accurate typing of human leukocyte antigen through exome sequencing) was originally developed to analyze whole-exome sequencing (exome-seq) data from the Illumina platform and to predict the HLA genotype at 2-field or higher resolution. HLA locus-specific reads are first collected by stringent read mapping to the IMGT/HLA database. ATHLATES then performs read assembly, candidate allele identification, and genotype inference. Here we describe the protocol of using ATHLATES for the above purpose and expand the application to analyze targeted sequencing data using amplicons of full HLA genes. 
 
 This repository supplies scripts for running ATHLATES. 
